@@ -37,6 +37,10 @@ Show all available grunt tasks.
 Install `testacular`, `grunt`, `coffee-script`, `less`.
 
 
+### Install ACE editor
+
+    git submodule update --init
+
 ### Watch unit tests (coffee script) and styles (less)
 
     grunt watch
